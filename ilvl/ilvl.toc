@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ilvl
+## Notes: Item level display for bags, character panel, inspect and more.
+## Author: Easters
+## Version: 1.0
+## SavedVariables: ilvlDB
+
+ilvl.lua
