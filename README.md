@@ -1,5 +1,8 @@
 A lightweight and efficient World of Warcraft addon designed to display item levels directly on items across various interfaces, with specialized support for the Path to Ascension private server.
 
+Credits & Acknowledgments
+DragonUI / NeticSoul: Original creator of the item level overlay system and codebase. This standalone version is adapted from DragonUI.
+
 Features
 Comprehensive UI Integration: Automatically displays item levels for bags, bank, character panel, inspect frames, guild bank, merchant, trade, loot windows, mail, and the auction house.
 
@@ -10,7 +13,7 @@ Built-in Configuration Panel: Easily customize font sizes and text positioning (
 Color-Coded Quality: Item level text is dynamically colored based on the item's rarity.
 
 Installation
-Download or extract the ilvl folder into your World of Warcraft Interface\AddOns\ directory.
+Download or extract the ilvl folder into your World of Warcraft\Interface\AddOns\ directory.
 
 Ensure the folder structure is: World of Warcraft\Interface\AddOns\ilvl\ilvl.lua and ilvl.toc.
 
