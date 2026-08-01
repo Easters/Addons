@@ -18,3 +18,6 @@ Download or extract the ilvl folder into your World of Warcraft\Interface\AddOns
 Ensure the folder structure is: World of Warcraft\Interface\AddOns\ilvl\ilvl.lua and ilvl.toc.
 
 Launch the game and enjoy!
+
+<img width="494" height="459" alt="HBqOauC" src="https://github.com/user-attachments/assets/4c263c82-0605-4481-aed1-dfeb329d8818" />
+
